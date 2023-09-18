@@ -48,7 +48,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push to the branch: `git push origin feature-name`.
 5. Open a pull request.
 
-Please make sure to follow the [code of conduct](CODE_OF_CONDUCT.md) and [contribution guidelines](CONTRIBUTING.md).
 ```
-
-Replace the placeholders with the appropriate information for your project. You can add more sections or details as needed for your README.md file.
