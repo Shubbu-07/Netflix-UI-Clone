@@ -1,4 +1,3 @@
-```markdown
 # Netflix Clone
 
 This is a simple Netflix clone project created using HTML and CSS. It replicates the basic layout and design of the Netflix website.
@@ -6,10 +5,10 @@ This is a simple Netflix clone project created using HTML and CSS. It replicates
 ## Table of Contents
 
 
-- #Features
-- #Installation
-- #Usage
-- #Contributing
+- Features
+- Installation
+- Usage
+- Contributing
 
 ## Features
 
@@ -47,5 +46,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 3. Make your changes and commit them: `git commit -m "Add new feature"`.
 4. Push to the branch: `git push origin feature-name`.
 5. Open a pull request.
-
-```
